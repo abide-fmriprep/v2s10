@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/gp/1x/MD5E-s678699--6ba16420b051b5c87c7d0c032a9a2b93.K/MD5E-s678699--6ba16420b051b5c87c7d0c032a9a2b93.K
